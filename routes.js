@@ -1,5 +1,5 @@
 
-const fs=require('fs');
+const fs= require('fs');
 
 const requestHandler=(req,res)=>{
 const url=req.url;
